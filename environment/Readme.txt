@@ -1,0 +1,1 @@
+All environment configuration scripts should go under this directory
